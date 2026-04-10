@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [7.0.0] - 2026-04-10
+
+### Added
+
+- infra test 7
+
 ## [6.0.0] - 2026-04-09
 
 ### Added
@@ -42,7 +48,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 - infra test
 
-[unreleased]: https://github.com/klancarLuka/Test-repo-private/compare/v6.0.0...HEAD
+[unreleased]: https://github.com/klancarLuka/Test-repo-private/compare/v7.0.0...HEAD
+[7.0.0]: https://github.com/klancarLuka/Test-repo-private/compare/v6.0.0...v7.0.0
 [6.0.0]: https://github.com/klancarLuka/Test-repo-private/compare/v4.0.1...v6.0.0
 [4.0.1]: https://github.com/klancarLuka/Test-repo-private/compare/v4.0.0...v4.0.1
 [4.0.0]: https://github.com/klancarLuka/Test-repo-private/compare/v3.0.0...v4.0.0
